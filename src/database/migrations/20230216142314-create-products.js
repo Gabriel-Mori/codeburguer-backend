@@ -17,7 +17,7 @@ module.exports = {
       },
 
       price: {
-        type: Sequelize.INTEGER,
+        type: Sequelize.DOUBLE,
         allowNull: false,
       },
 
